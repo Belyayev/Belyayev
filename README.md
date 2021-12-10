@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Belyayev
-- 👀 I’m interested in front end development and 3D visuals overall like VR/AR
+- 👀 I’m interested in front end development and 3D visuals overall like VR/AR/XR
 - 🌱 I’m currently advancing skills realted to the front end (popular frameworks like React/Angular/Vue, advanced JavaScript and CSS topics).
 - 💞️ I’m looking to collaborate on XR project, tools for architects and 3D visualization tools
-- 📫 How to reach me: 4xgood@gmai.com
+- 📫 How to reach me: 4xgood@gmail.com
